@@ -15,6 +15,11 @@
 - Delete Task
 - Update Status (Pending / Completed)
 
+![image alt](https://github.com/princessannesinangote13-bot/personal-task-manager/blob/c2a2c23bc341d9ea2523f4f66af61d9c111e6304/Screenshot_1.png)
+![image alt](https://github.com/princessannesinangote13-bot/personal-task-manager/blob/c2a2c23bc341d9ea2523f4f66af61d9c111e6304/Screenshot_2.png)
+![image alt](https://github.com/princessannesinangote13-bot/personal-task-manager/blob/c2a2c23bc341d9ea2523f4f66af61d9c111e6304/Screenshot_3.png)
+![image alt](https://github.com/princessannesinangote13-bot/personal-task-manager/blob/c2a2c23bc341d9ea2523f4f66af61d9c111e6304/Screenshot_4.png)
+
 ## Technologies Used
 
 - Laravel
